@@ -13,7 +13,7 @@ In this project, Spotify streaming trends for top songs of 2017 were analyzed us
 
 **Despacito**
 
--Trend: Released later in the year with a rapid surge to the highest single-day streams, followed by a slower, prolonged decline and a late-year spike.
+-Trend: Released later in the year with a rapid incline to the highest single-day streams, followed by a slower, prolonged decline and a late-year spike.
 
 -Interpretation: Reflects viral, global popularity and cultural impact; the late spike may be tied to seasonal events or renewed interests.
 
